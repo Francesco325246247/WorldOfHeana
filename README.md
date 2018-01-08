@@ -29,7 +29,7 @@ I am curretly working on this project in my spare time, I hope to achieve someth
 # Opening Positions:
 * Art designer. 
 I am looking with someone with art skills and wish to coolaborate to the creation of this video game creating artwork, maps, and a logo.
-* Python, C++ developers.
+* Python, C++, C# developers.
 Someone that has some good experience of working on windows and linux platform. Experience in game production is a plus.
 * English Writers.
 I need people that wish to write quests and side quests, and use their immagination to populate the world of heana. 
