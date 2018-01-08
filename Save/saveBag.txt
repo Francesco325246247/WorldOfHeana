@@ -1,0 +1,97 @@
+
+Rusty dagger
+common
+1
+0
+1
+3
+
+magical Axe
+magical
+36
+36
+59
+
+Magic Axe
+magical
+26
+26
+73
+
+Leggendary Hammer
+Leggendary
+1
+1
+51
+
+Rare Mace
+rare
+3
+3
+5
+
+Magic Axe
+magical
+32
+32
+53
+
+Rare Mace
+rare
+3
+3
+23
+
+Rare Mace
+rare
+15
+15
+15
+
+Rare Mace
+rare
+15
+15
+22
+
+Rare Mace
+rare
+15
+15
+29
+
+Magic Axe
+magical
+6
+6
+96
+
+Rare Mace
+rare
+19
+12
+36
+
+Rare Mace
+rare
+15
+6
+14
+
+Rare Mace
+rare
+11
+2
+17
+
+Leggendary Hammer
+Leggendary
+188
+253
+233
+
+Magic  Axe
+magical
+72
+73
+37
