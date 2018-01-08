@@ -1,4 +1,4 @@
-# WorldOfHeana
+# World Of Heana
 TextBase Rpg from Mindwarelab Game Studios
 
 ## Background story
@@ -18,7 +18,7 @@ Jump into the story and find out the mystery of Heana, an epic quest await you.
 * Buy and Sell.
 * Fighting system.
 
-# Oepning Positions:
+# Opening Positions:
 * Art designer.
 * C++ developers.
 * English Writers.
