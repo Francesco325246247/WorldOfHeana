@@ -1,7 +1,7 @@
 ![alt text](https://orig00.deviantart.net/5371/f/2013/161/b/a/snow_fortress_by_kuroe702-d68ioag.jpg)
 ##### Original work from "https://orig00.deviantart.net/5371/f/2013/161/b/a/snow_fortress_by_kuroe702-d68ioag.jpg"
 
-##### (Disclaimer: I do not own any of the art work present on this page)
+##### (Disclaimer: I do not own any of the art work present on this page, all the pictures curretly showen here are just placeholders and they will not be present in any official realease of this game or any game from Mindwarelab Game Studios.)
 
 # World Of Heana
 TextBase Rpg from Mindwarelab Game Studios
