@@ -21,8 +21,8 @@ But how would be possible you are asking to yourself, we are living in the first
 * Buy and Sell.
 * Fighting system.
 
-Blog:
-### 1/7/2018
+# Blog:
+* 1/7/2018
 I am curretly working on this project in my spare time, I hope to achieve something playable in the short run. For playable I mean, leveling up, trading , questing and advancing in the story. The main quest line will be not easy and it will require a good amount of side questing. 
 
 
