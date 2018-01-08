@@ -37,3 +37,5 @@ But how would be possible you are asking to yourself, we are living in the first
 ##### Original work from "https://orig00.deviantart.net/f450/f/2014/231/c/f/one_way_through_by_jbrown67-d7vvq9y.jpg"
 ![alt text](https://cdna.artstation.com/p/assets/images/images/000/043/000/large/snow_village.jpg)
 ##### Original work from "https://cdna.artstation.com/p/assets/images/images/000/043/000/large/snow_village.jpg?1398646372"
+![alt text](https://markcnewton.com/wp-content/uploads/2014/10/king_valley_1200.png)
+##### Original work from "https://markcnewton.com/wp-content/uploads/2014/10/king_valley_1200.png"
