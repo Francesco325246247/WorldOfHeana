@@ -28,12 +28,11 @@ I am curretly working on this project in my spare time, I hope to achieve someth
 
 # Opening Positions:
 * Art designer. 
-** I am looking with someone with art skills and wish to coolaborate to the creation of this video game
-** creating artwork, maps, and a logo.
+I am looking with someone with art skills and wish to coolaborate to the creation of this video game creating artwork, maps, and a logo.
 * C++ developers.
-** Someone that has some good experience of working on windows and linux platform, and that has some experience in game production.
+Someone that has some good experience of working on windows and linux platform, and that has some experience in game production.
 * English Writers.
-** I need people that wish to write quests and side quests, and use their immagination to populate the world of heana. 
+I need people that wish to write quests and side quests, and use their immagination to populate the world of heana. 
 
 Everyone working on Heana will be rightfully recognized for that in game and outside the game. 
 
