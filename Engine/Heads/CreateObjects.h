@@ -11,7 +11,7 @@ class CreateObjects {
 public:
 		Object objectCreation(std::string prefix, std::string suffix, std::string type, int damage, int defense, int value);
 	~CreateObjects();
-    Object randomObject();
+	Object randomObject(int level);
 };
 
 

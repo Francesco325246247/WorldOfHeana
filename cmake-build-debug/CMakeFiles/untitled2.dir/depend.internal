@@ -19,6 +19,13 @@ CMakeFiles/untitled2.dir/Engine/Classes/Engine.cpp.obj
  C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/Subjects.h
  C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/loadScript.h
  C:/Users/fcoz/CLionProjects/untitled3/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.h
+CMakeFiles/untitled2.dir/Engine/Classes/fight.cpp.obj
+ C:/Users/fcoz/CLionProjects/untitled3/Engine/Classes/fight.cpp
+ C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/CreateObjects.h
+ C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/Engine.h
+ C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/Object.h
+ C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/Subjects.h
+ C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/fight.h
 CMakeFiles/untitled2.dir/Engine/Classes/loadScript.cpp.obj
  C:/Users/fcoz/CLionProjects/untitled3/Engine/Classes/loadScript.cpp
  C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/Object.h
@@ -30,6 +37,7 @@ CMakeFiles/untitled2.dir/Locations/Adventures/Adventures_In_The_Bouldermash/Boul
  C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/Engine.h
  C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/Object.h
  C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/Subjects.h
+ C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/fight.h
  C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/loadScript.h
  C:/Users/fcoz/CLionProjects/untitled3/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.cpp
  C:/Users/fcoz/CLionProjects/untitled3/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.h

@@ -17,5 +17,4 @@ Subjects CreateSubjects::subjectCreation(string name, string gender, string race
     subjects.experience = experience;
     return subjects;
 }
-CreateSubjects::~CreateSubjects() {
-}
+CreateSubjects::~CreateSubjects() = default;

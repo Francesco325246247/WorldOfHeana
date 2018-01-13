@@ -19,7 +19,8 @@ public:
     std::string classe;
     std::string type;
     std::vector <Object> bag{};
-    std::vector <Object> spells{};
+    //std::vector <int> spells {};
+    std::vector <Object> equipped{};
     ~Subjects() = default;
 
 };

@@ -203,6 +203,33 @@ Engine/Classes/Engine.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Engine/Classes/Engine.cpp.s
 .PHONY : Engine/Classes/Engine.cpp.s
 
+Engine/Classes/fight.obj: Engine/Classes/fight.cpp.obj
+
+.PHONY : Engine/Classes/fight.obj
+
+# target to build an object file
+Engine/Classes/fight.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Engine/Classes/fight.cpp.obj
+.PHONY : Engine/Classes/fight.cpp.obj
+
+Engine/Classes/fight.i: Engine/Classes/fight.cpp.i
+
+.PHONY : Engine/Classes/fight.i
+
+# target to preprocess a source file
+Engine/Classes/fight.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Engine/Classes/fight.cpp.i
+.PHONY : Engine/Classes/fight.cpp.i
+
+Engine/Classes/fight.s: Engine/Classes/fight.cpp.s
+
+.PHONY : Engine/Classes/fight.s
+
+# target to generate assembly for a file
+Engine/Classes/fight.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled2.dir\build.make CMakeFiles/untitled2.dir/Engine/Classes/fight.cpp.s
+.PHONY : Engine/Classes/fight.cpp.s
+
 Engine/Classes/loadScript.obj: Engine/Classes/loadScript.cpp.obj
 
 .PHONY : Engine/Classes/loadScript.obj
@@ -302,6 +329,9 @@ help:
 	@echo ... Engine/Classes/Engine.obj
 	@echo ... Engine/Classes/Engine.i
 	@echo ... Engine/Classes/Engine.s
+	@echo ... Engine/Classes/fight.obj
+	@echo ... Engine/Classes/fight.i
+	@echo ... Engine/Classes/fight.s
 	@echo ... Engine/Classes/loadScript.obj
 	@echo ... Engine/Classes/loadScript.i
 	@echo ... Engine/Classes/loadScript.s

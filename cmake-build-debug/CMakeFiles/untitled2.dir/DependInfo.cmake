@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/fcoz/CLionProjects/untitled3/Engine/Classes/CreateObjects.cpp" "C:/Users/fcoz/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled2.dir/Engine/Classes/CreateObjects.cpp.obj"
   "C:/Users/fcoz/CLionProjects/untitled3/Engine/Classes/CreateSubjects.cpp" "C:/Users/fcoz/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled2.dir/Engine/Classes/CreateSubjects.cpp.obj"
   "C:/Users/fcoz/CLionProjects/untitled3/Engine/Classes/Engine.cpp" "C:/Users/fcoz/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled2.dir/Engine/Classes/Engine.cpp.obj"
+  "C:/Users/fcoz/CLionProjects/untitled3/Engine/Classes/fight.cpp" "C:/Users/fcoz/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled2.dir/Engine/Classes/fight.cpp.obj"
   "C:/Users/fcoz/CLionProjects/untitled3/Engine/Classes/loadScript.cpp" "C:/Users/fcoz/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled2.dir/Engine/Classes/loadScript.cpp.obj"
   "C:/Users/fcoz/CLionProjects/untitled3/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.cpp" "C:/Users/fcoz/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled2.dir/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.cpp.obj"
   "C:/Users/fcoz/CLionProjects/untitled3/main.cpp" "C:/Users/fcoz/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled2.dir/main.cpp.obj"

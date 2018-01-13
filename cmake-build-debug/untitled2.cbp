@@ -91,6 +91,9 @@
 		<Unit filename="C:/Users/fcoz/CLionProjects/untitled3/Engine/Classes/Engine.cpp">
 			<Option target="untitled2"/>
 		</Unit>
+		<Unit filename="C:/Users/fcoz/CLionProjects/untitled3/Engine/Classes/fight.cpp">
+			<Option target="untitled2"/>
+		</Unit>
 		<Unit filename="C:/Users/fcoz/CLionProjects/untitled3/Engine/Classes/loadScript.cpp">
 			<Option target="untitled2"/>
 		</Unit>
@@ -107,6 +110,9 @@
 			<Option target="untitled2"/>
 		</Unit>
 		<Unit filename="C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/Subjects.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/fight.h">
 			<Option target="untitled2"/>
 		</Unit>
 		<Unit filename="C:/Users/fcoz/CLionProjects/untitled3/Engine/Heads/loadScript.h">

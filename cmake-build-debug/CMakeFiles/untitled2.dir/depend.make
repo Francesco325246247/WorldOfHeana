@@ -19,6 +19,13 @@ CMakeFiles/untitled2.dir/Engine/Classes/Engine.cpp.obj: ../Engine/Heads/Subjects
 CMakeFiles/untitled2.dir/Engine/Classes/Engine.cpp.obj: ../Engine/Heads/loadScript.h
 CMakeFiles/untitled2.dir/Engine/Classes/Engine.cpp.obj: ../Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.h
 
+CMakeFiles/untitled2.dir/Engine/Classes/fight.cpp.obj: ../Engine/Classes/fight.cpp
+CMakeFiles/untitled2.dir/Engine/Classes/fight.cpp.obj: ../Engine/Heads/CreateObjects.h
+CMakeFiles/untitled2.dir/Engine/Classes/fight.cpp.obj: ../Engine/Heads/Engine.h
+CMakeFiles/untitled2.dir/Engine/Classes/fight.cpp.obj: ../Engine/Heads/Object.h
+CMakeFiles/untitled2.dir/Engine/Classes/fight.cpp.obj: ../Engine/Heads/Subjects.h
+CMakeFiles/untitled2.dir/Engine/Classes/fight.cpp.obj: ../Engine/Heads/fight.h
+
 CMakeFiles/untitled2.dir/Engine/Classes/loadScript.cpp.obj: ../Engine/Classes/loadScript.cpp
 CMakeFiles/untitled2.dir/Engine/Classes/loadScript.cpp.obj: ../Engine/Heads/Object.h
 CMakeFiles/untitled2.dir/Engine/Classes/loadScript.cpp.obj: ../Engine/Heads/Subjects.h
@@ -29,6 +36,7 @@ CMakeFiles/untitled2.dir/Locations/Adventures/Adventures_In_The_Bouldermash/Boul
 CMakeFiles/untitled2.dir/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.cpp.obj: ../Engine/Heads/Engine.h
 CMakeFiles/untitled2.dir/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.cpp.obj: ../Engine/Heads/Object.h
 CMakeFiles/untitled2.dir/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.cpp.obj: ../Engine/Heads/Subjects.h
+CMakeFiles/untitled2.dir/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.cpp.obj: ../Engine/Heads/fight.h
 CMakeFiles/untitled2.dir/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.cpp.obj: ../Engine/Heads/loadScript.h
 CMakeFiles/untitled2.dir/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.cpp.obj: ../Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.cpp
 CMakeFiles/untitled2.dir/Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.cpp.obj: ../Locations/Adventures/Adventures_In_The_Bouldermash/Bouldersmash.h
