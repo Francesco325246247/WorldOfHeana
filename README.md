@@ -10,17 +10,14 @@ TextBase Rpg from Mindwarelab Game Studios
 The world has forgotten the past, what was before is not know or hiden. You find a small scroll in your uncle actic, the contenet of the document itself was by itself very weird, but what strikes your attention is the date on the document. "The 2nd Moon of Iris - IV era". 
 That cannot be right, we are living in the firth era and all we know is that before us there was nothing, something in your mind start to wonder if that is in fact true. Unfortunately, the few books mentioning anything older than hundred moon cycles are lock away in the great library of the capital and only to be read by appointed personal only. In order to seek your answers, you need to go to the great library in person and deliver your discovery to a knwoledge keeper, they are your only hope to unveil this mystery. While rolling back the scroll you noticed something written on the back, it seems someone try to scrap it off the back of the scroll, but you can read the first sentence:"Why we cannot leave the valley?". The answer seems obvious to you, there is nothing outside, everyone knows that. While you thinking about that, you feel not very confortable with the reasons provided in school. You begin to wonder if who wrote the history books is trying to mislead you or do they just do not know the facts and therefore invented a farytale? Meanwhile you are thinking about all these questions you dressed up and fix the bags to begin your journey to the capital. 
 * Jump into the story and find out the mystery of Heana, an epic quest awaits you. 
-## Patch 1.1:
-* Save and load working correctly.
-* Random object creation added.
-* Text loader added.
+## Patch 1.1.2:
+* Fighting system introduced
 
 ## Workig on:
 * Random NPG, with random conversations.
 * More instances.
 * Towns.
 * Buy and Sell.
-* Fighting system.
 
 # Blog:
 * 1/7/2018
